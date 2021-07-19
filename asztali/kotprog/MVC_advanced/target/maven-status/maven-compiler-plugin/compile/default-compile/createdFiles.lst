@@ -1,0 +1,14 @@
+hu\alkfejl\dao\GameDAO.class
+hu\alkfejl\view\controller\KezdoAblakKezelo$3.class
+hu\alkfejl\view\controller\MainWindowController.class
+hu\alkfejl\App.class
+hu\alkfejl\model\game\Game.class
+hu\alkfejl\view\controller\KezdoAblakKezelo$2.class
+hu\alkfejl\utils\Utils.class
+hu\alkfejl\controller\MaxSzint.class
+hu\alkfejl\view\controller\KezdoAblakKezelo$1.class
+hu\alkfejl\controller\GameController.class
+hu\alkfejl\view\controller\KezdoAblakKezelo.class
+hu\alkfejl\dao\GameDAOImp.class
+hu\alkfejl\model\game\Cell.class
+hu\alkfejl\model\ModelGame.class

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("cool.png");
+     padding-top: 50px;
+     text-align: center;
+     }
+
+
+
+     h1 {
+       font-size: 70px;
+       text-align: center;
+     }
+    #leiras{
+    font-size:20px;
+    font-variant-caps: small-caps;
+    }

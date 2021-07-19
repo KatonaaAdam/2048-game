@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="371.0" prefWidth="488.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.alkfejl.view.controller.MainWindowController">
+   <children>
+      <TableView fx:id="table" layoutY="27.0" prefHeight="304.0" prefWidth="488.0" AnchorPane.bottomAnchor="56.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="27.0">
+        <columns>
+          <TableColumn fx:id="idoCol" prefWidth="216.3999908566475" text="Idő" />
+            <TableColumn fx:id="levelCol" prefWidth="233.59999084472656" text="Level" />
+        </columns>
+      </TableView>
+      <Button layoutX="9.0" layoutY="361.0" mnemonicParsing="false" onAction="#refreshTable" text="Refresh" />
+      <Button layoutX="398.0" layoutY="348.0" mnemonicParsing="false" onAction="#vissza" text="Vissza" />
+   </children>
+</AnchorPane>

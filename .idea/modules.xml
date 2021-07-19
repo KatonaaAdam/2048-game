@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/asztali/kotprog/MVC_advanced/01_MVC.iml" filepath="$PROJECT_DIR$/asztali/kotprog/MVC_advanced/01_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ALKALMAZASFEJLESZTES_PROJEKT.iml" filepath="$PROJECT_DIR$/.idea/ALKALMAZASFEJLESZTES_PROJEKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webes/2048_webapp/person-administrator-jsp.iml" filepath="$PROJECT_DIR$/webes/2048_webapp/person-administrator-jsp.iml" />
+    </modules>
+  </component>
+</project>
